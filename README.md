@@ -1,4 +1,4 @@
-# Jen Jones — SEO, GEO & Answer Engine Subject Matter Expert
+# Jen Jones, Ph.D. — SEO, GEO & Answer Engine Subject Matter Expert
 
 I create and document content frameworks, schemas, and optimization patterns designed
 to improve visibility in search engines and AI answer engines.
@@ -8,6 +8,7 @@ to improve visibility in search engines and AI answer engines.
 - Generative Engine Optimization (GEO)
 - Machine-readable content structures
 - Blog and editorial frameworks for B2B companies
+- The impact that AI is having on small to mid-sized businesses
 
 ## What You'll Find Here
 - Content frameworks used in agency environments
