@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Jen Jones
 
-I’m a content strategist and marketing technologist focused on **Answer Engine Optimization (AEO)** and **Generative Engine Optimization (GEO)** — helping brands, platforms, and content teams make their work discoverable, understandable, and citable by AI systems.
+I’m a digital marketing leader focused on **Answer Engine Optimization (AEO)** and **Generative Engine Optimization (GEO)** — helping brands, platforms, and content teams make their work discoverable, understandable, and citable by AI systems.
 
 My work sits at the intersection of **SEO, structured data, content engineering, and AI visibility**.
 
