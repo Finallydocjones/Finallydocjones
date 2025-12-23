@@ -80,13 +80,5 @@ This profile is part portfolio, part research lab, part publishing platform.
 - SEO for AI Systems  
 - Content Engineering  
 - Machine-Readable Marketing Content
+- Herbert Simon's Administrative State and Artificial Intelligence
 
----
-
-## 🔗 Connect With Me
-
-- 💼 **LinkedIn:** *(add link)*  
-- 🌐 **Website / Portfolio:** *(add link)*  
-- 🧠 **Company / Agency Work:** *(optional)*  
-
-If you’re interested in **AI visibility, content strategy, or future-proof SEO**, feel free to expl
